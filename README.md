@@ -1,12 +1,12 @@
 <div align="center">
 
-# MonoLisa Theme
+# Monolisa Theme
 
-<img src="./assets/mono_lisa_palette.png" alt="MonoLisa palette preview"/>
+<img src="./assets/mono_lisa_palette.png" alt="Monolisa palette preview"/>
 
 <br>
 
-<i><b>MonoLisa</b> is a warm, low-contrast dark theme engineered for extended programming sessions.  
+<i><b>Monolisa</b> is a warm, low-contrast dark theme engineered for extended programming sessions.  
 It prioritizes visual stability, reduces eye strain, and provides a consistent semantic color system across terminal, editor, and UI surfaces.</i>
 
 </div>
@@ -15,7 +15,7 @@ It prioritizes visual stability, reduces eye strain, and provides a consistent s
 
 ## Overview
 
-Unlike conventional dark themes built on cool grays and high contrast, MonoLisa uses a subtly warm, red-shifted foundation with carefully controlled saturation.  
+Unlike conventional dark themes built on cool grays and high contrast, Monolisa uses a subtly warm, red-shifted foundation with carefully controlled saturation.  
 This creates a calmer visual environment that remains readable over long periods without introducing fatigue.
 
 Rather than maximizing contrast, the theme focuses on **perceptual balance** — preserving hierarchy and clarity without overwhelming the eye.
@@ -36,7 +36,7 @@ The palette is structured around a small set of disciplined rules:
 ## Palette
 
 <details>
-<summary><b>MonaLisa (Dark)</b></summary>
+<summary><b>Monalisa (Dark)</b></summary>
 <br>
 <table>
   <tr>
