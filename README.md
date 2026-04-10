@@ -1,33 +1,25 @@
 <div align=center>
+  <img src="./assets/mono_lisa_palette.png"/>
   <h1>MonoLisa</h1>
 
   <p>
     <b>MonoLisa</b> is a warm, low-contrast dark theme designed for long programming sessions. It emphasizes visual stability, reduced eye strain, and a consistent semantic color system across terminal, editor, and UI components.
   </p>
-  <h2>Philosophy</h2>
-</div>
-  <p>
-    <strong>
-      Mono Lisa is not designed to be flashy.
-      It is designed to be <b>reliable, predictable, and comfortable</b>.
-    </strong>
-  </p>
-<div align=center>  
+ 
   <h2>Overview</h2>
 
   <p>
     Unlike typical dark themes that rely on cold grays and high contrast, MonoLisa is built on a warm, red-shifted base with carefully controlled saturation. The result is a calmer interface that remains readable for extended periods without visual fatigue.
   </p>
+  
 The palette balances:
-</div>
 <br>
-<ul>
-  <li><b>soft foreground tones</b> for readability without glare</li>
-  <li><b>muted backgrounds</b> for depth without distraction</li>
-  <li><b>controlled accents</b> for clear semantic meaning</li>
+<br>
+1)<b>soft foreground tones</b> for readability without glare<br>
+2)<b>muted backgrounds</b> for depth without distraction<br>
+3)<b>controlled accents</b> for clear semantic meaning
 </ul>
 
-<div align=center>
   <h2>Palette</h2>
 
   <details>
