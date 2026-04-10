@@ -111,16 +111,16 @@ The palette is structured around a small set of disciplined rules:
   </tr>
   <tr>
     <td>Muted Cyan</td>
-    <td><code>#6E7F87</code></td>
-    <td><code>rgb(110, 127, 135)</code></td>
-    <td><code>hsl(199, 10%, 48%)</code></td>
+    <td><code>#7E9098</code></td>
+    <td><code>rgb(126,144,152)</code></td>
+    <td><code>hsl(199,15%,55%)</code></td>
     <td>Functions, links, structure.</td>
   </tr>
   <tr>
     <td>Muted Cyan Bright</td>
-    <td><code>#8FA3AD</code></td>
-    <td><code>rgb(143, 163, 173)</code></td>
-    <td><code>hsl(200, 15%, 62%)</code></td>
+    <td><code>#9FB3BD</code></td>
+    <td><code>rgb(159,179,189)</code></td>
+    <td><code>hsl(200,20%,68%)</code></td>
     <td>Active structural highlights.</td>
   </tr>
   <tr>
