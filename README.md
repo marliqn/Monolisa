@@ -1,7 +1,6 @@
 <div align=center>
+  <h1>MonoLisa Theme</h1>
   <img src="./assets/mono_lisa_palette.png"/>
-  <h1>MonoLisa</h1>
-
   <p>
     <b>MonoLisa</b> is a warm, low-contrast dark theme designed for long programming sessions. It emphasizes visual stability, reduced eye strain, and a consistent semantic color system across terminal, editor, and UI components.
   </p>
