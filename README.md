@@ -21,135 +21,149 @@ The palette balances:
 
   <h2>Palette</h2>
 
-  <details>
-  <summary>MonoLisa Dark</summary>
-    <table>
-      <tr>
-        <th>Labels</th>
-		    <th>Hex</th>
-		    <th>RGB</th>
-		    <th>HSL</th>
-	    </tr>
-      <tr>
-        <td>Background</td>
-		    <td><code>#080808</code></td>
-		    <td><code>rgb(8, 8, 8)</code></td>
-		    <td><code>hsl(0, 0%, 3%)</code></td>
-	    </tr>
-      <tr>
-        <td>Background Alt</td>
-		    <td><code>#141012</code></td>
-		    <td><code>rgb(20, 16, 18)</code></td>
-		    <td><code>hslhsl(330, 11%, 7%)</code></td>
-	    </tr>
-      <tr>
-        <td>Foreground</td>
-		    <td><code>#e4d2a2</code></td>
-		    <td><code>rgb(228, 210, 162)</code></td>
-		    <td><code>hsl(44, 53%, 76%)</code></td>
-	    </tr>
-      <tr>
-        <td>Foreground Dim</td>
-		    <td><code>#b7a88a</code></td>
-		    <td><code>rgb(183, 168, 138)</code></td>
-		    <td><code>hsl(40, 23%, 63%)</code></td>
-	    </tr>
-      <tr>
-        <td>Foreground Faint</td>
-		    <td><code>#8a7d69</code></td>
-	    	<td><code>rgb(138, 125, 105)</code></td>
-	    	<td><code>hsl(36, 13%, 48%)</code></td>
-	    </tr>
-       <tr>
-        <td>Surface</td>
-		    <td><code>#21191c</code></td>
-		    <td><code>rgb(33, 25, 28)</code></td>
-		    <td><code>hsl(338, 14%, 11%)</code></td>
-	    </tr>
-      <tr>
-        <td>Surface High</td>
-	    	<td><code>#2b2024</code></td>
-	    	<td><code>rgb(43, 32, 36)</code></td>
-	    	<td><code>hsl(338, 15%, 15%)</code></td>
-	    </tr>
-      <tr>
-        <td>Teal</td>
-		    <td><code>#6ea88c</code></td>
-	    	<td><code>rgb(110, 168, 140)</code></td>
-	    	<td><code>hsl(151, 26%, 55%)</code></td>
-	    </tr>
-      <tr>
-        <td>Teal Bright</td>
-	    	<td><code>#8fd3ab</code></td>
-		    <td><code>rgb(143, 211, 171)</code></td>
-	      <td><code>hsl(145, 43%, 69%)</code></td>
-	    </tr>
-      <tr>
-        <td>Muted Cyan</td>
-		    <td><code>#6f9096</code></td>
-	    	<td><code>rgb(111, 144, 150)</code></td>
-	    	<td><code>hsl(189, 16%, 51%)</code></td>
-	    </tr>
-      <tr>
-        <td>Muted Cyan Bright</td>
-		    <td><code>#8fbfc6</code></td>
-		    <td><code>rgb(143, 191, 198)</code></td>
-	    	<td><code>hsl(188, 31%, 67%)</code></td>
-	    </tr>
-      <tr>
-        <td>Olive</td>
-	    	<td><code>#8a9d3f</code></td>
-		    <td><code>rgb(138, 157, 63)</code></td>
-		    <td><code>hsl(72, 43%, 43%)</code></td>
-	    </tr>
-      <tr>
-        <td>Olive Bright</td>
-	      <td><code>#a9c24d</code></td>
-		    <td><code>rgb(169, 194, 77)</code></td>
-		    <td><code>hsl(73, 49%, 53%)</code></td>
-	    </tr>
-      <tr>
-        <td>Muted Cyan Bright</td>
-		    <td><code>#8fbfc6</code></td>
-		    <td><code>rgb(143, 191, 198)</code></td>
-	    	<td><code>hsl(188, 31%, 67%)</code></td>
-	    </tr>
-      <tr>
-        <td>Amber</td>
-		    <td><code>#d28c3f</code></td>
-		    <td><code>rgb(210, 140, 63)</code></td>
-		    <td><code>hsl(32, 61%, 54%)</code></td>
-	    </tr>
-      <tr>
-        <td>Amber Bright</td>
-		    <td><code>#f2a65a</code></td>
-		    <td><code>rgb(242, 166, 90)</code></td>
-		    <td><code>hsl(30, 85%, 65%)</code></td>
-	    </tr>
-      <tr>
-        <td>Rose</td>
-		    <td><code>#c05c6b</code></td>
-		    <td><code>rgb(192, 92, 107)</code></td>
-		    <td><code>hsl(350, 44%, 56%)</code></td>
-	    </tr>
-      <tr>
-        <td>Rose Bright</td>
-		    <td><code>#e17888</code></td>
-		    <td><code>rgb(225, 120, 136)</code></td>
-		    <td><code>hsl(351, 63%, 68%)</code></td>
-	    </tr>
-      <tr>
-        <td>Red</td>
-		    <td><code>#c34b3a</code></td>
-		    <td><code>rgb(195, 75, 58)</code></td>
-		    <td><code>hsl(7, 54%, 50%)</code></td>
-	    </tr>
-      <tr>
-        <td>Red Bright</td>
-		    <td><code>#e2604a</code></td>
-		    <td><code>rgb(226, 96, 74)</code></td>
-		    <td><code>hsl(9, 72%, 59%)</code></td>
-	    </tr>
-    </table>
-  </details>
+ <details>
+  <summary>MonaLisa (Dark)</summary>
+  <table>
+    <tr>
+      <th>Label</th>
+      <th>Hex</th>
+      <th>RGB</th>
+      <th>HSL</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>Background</td>
+      <td><code>#14110F</code></td>
+      <td><code>rgb(20, 17, 15)</code></td>
+      <td><code>hsl(24, 14%, 7%)</code></td>
+      <td>Main editor/terminal background; deep umber tone with warm undertone.</td>
+    </tr>
+    <tr>
+      <td>Background Alt</td>
+      <td><code>#1B1613</code></td>
+      <td><code>rgb(27, 22, 19)</code></td>
+      <td><code>hsl(22, 17%, 9%)</code></td>
+      <td>Secondary background for panels, tabs, and containers.</td>
+    </tr>
+    <tr>
+      <td>Surface</td>
+      <td><code>#231C18</code></td>
+      <td><code>rgb(35, 28, 24)</code></td>
+      <td><code>hsl(22, 19%, 12%)</code></td>
+      <td>Interactive surfaces: active line, inputs, cards.</td>
+    </tr>
+    <tr>
+      <td>Surface High</td>
+      <td><code>#2C231E</code></td>
+      <td><code>rgb(44, 35, 30)</code></td>
+      <td><code>hsl(21, 19%, 15%)</code></td>
+      <td>Elevated elements: hover states, popups, dropdowns.</td>
+    </tr>
+    <tr>
+      <td>Foreground</td>
+      <td><code>#E8DCC0</code></td>
+      <td><code>rgb(232, 220, 192)</code></td>
+      <td><code>hsl(42, 42%, 83%)</code></td>
+      <td>Primary text; parchment-like tone for comfortable reading.</td>
+    </tr>
+    <tr>
+      <td>Foreground Dim</td>
+      <td><code>#B8AA94</code></td>
+      <td><code>rgb(184, 170, 148)</code></td>
+      <td><code>hsl(37, 21%, 65%)</code></td>
+      <td>Secondary text; faded ink for metadata and UI labels.</td>
+    </tr>
+    <tr>
+      <td>Foreground Faint</td>
+      <td><code>#7E7466</code></td>
+      <td><code>rgb(126, 116, 102)</code></td>
+      <td><code>hsl(35, 11%, 45%)</code></td>
+      <td>Tertiary text; comments, disabled elements, placeholders.</td>
+    </tr>
+    <tr>
+      <td>Teal</td>
+      <td><code>#6F8F88</code></td>
+      <td><code>rgb(111, 143, 136)</code></td>
+      <td><code>hsl(167, 13%, 50%)</code></td>
+      <td>Secondary accent; muted teal for subtle highlights and UI elements.</td>
+    </tr>
+    <tr>
+      <td>Teal Bright</td>
+      <td><code>#8FB3AA</code></td>
+      <td><code>rgb(143, 179, 170)</code></td>
+      <td><code>hsl(165, 20%, 63%)</code></td>
+      <td>Brighter teal for hover states and selections.</td>
+    </tr>
+    <tr>
+      <td>Muted Cyan</td>
+      <td><code>#6E7F87</code></td>
+      <td><code>rgb(110, 127, 135)</code></td>
+      <td><code>hsl(199, 10%, 48%)</code></td>
+      <td>Structural color; functions, links, navigational elements.</td>
+    </tr>
+    <tr>
+      <td>Muted Cyan Bright</td>
+      <td><code>#8FA3AD</code></td>
+      <td><code>rgb(143, 163, 173)</code></td>
+      <td><code>hsl(200, 15%, 62%)</code></td>
+      <td>Enhanced structure highlighting for active states.</td>
+    </tr>
+    <tr>
+      <td>Olive</td>
+      <td><code>#7A8B5A</code></td>
+      <td><code>rgb(122, 139, 90)</code></td>
+      <td><code>hsl(81, 21%, 45%)</code></td>
+      <td>Data color; strings, natural states, confirmations.</td>
+    </tr>
+    <tr>
+      <td>Olive Bright</td>
+      <td><code>#93A86A</code></td>
+      <td><code>rgb(147, 168, 106)</code></td>
+      <td><code>hsl(80, 27%, 54%)</code></td>
+      <td>Highlighted data or active success indicators.</td>
+    </tr>
+    <tr>
+      <td>Amber</td>
+      <td><code>#C69A5B</code></td>
+      <td><code>rgb(198, 154, 91)</code></td>
+      <td><code>hsl(35, 48%, 57%)</code></td>
+      <td>Warning tone; numbers, constants, and focus elements.</td>
+    </tr>
+    <tr>
+      <td>Amber Bright</td>
+      <td><code>#E0B97A</code></td>
+      <td><code>rgb(224, 185, 122)</code></td>
+      <td><code>hsl(37, 61%, 68%)</code></td>
+      <td>Highlighted warnings and emphasized values.</td>
+    </tr>
+    <tr>
+      <td>Rose</td>
+      <td><code>#8C5A6B</code></td>
+      <td><code>rgb(140, 90, 107)</code></td>
+      <td><code>hsl(340, 22%, 45%)</code></td>
+      <td>Control flow; keywords with muted Renaissance tone.</td>
+    </tr>
+    <tr>
+      <td>Rose Bright</td>
+      <td><code>#A87486</code></td>
+      <td><code>rgb(168, 116, 134)</code></td>
+      <td><code>hsl(339, 24%, 56%)</code></td>
+      <td>Enhanced keyword highlighting.</td>
+    </tr>
+    <tr>
+      <td>Red</td>
+      <td><code>#A14F3F</code></td>
+      <td><code>rgb(161, 79, 63)</code></td>
+      <td><code>hsl(10, 44%, 44%)</code></td>
+      <td>Error state; muted cinnabar tone for alerts.</td>
+    </tr>
+    <tr>
+      <td>Red Bright</td>
+      <td><code>#C26152</code></td>
+      <td><code>rgb(194, 97, 82)</code></td>
+      <td><code>hsl(8, 47%, 54%)</code></td>
+      <td>Highlighted errors and critical states.</td>
+    </tr>
+  </table>
+</details>
 </div>
